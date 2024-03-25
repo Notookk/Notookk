@@ -1,8 +1,8 @@
-# 💫 About Me:
-🔭currently learning coding and python programmes 💫<br>👯 I’m looking to collaborate on 🥺<br>📫 How to reach me [Mail](tashithmanuka2006@gmail.com) <br>💬 Ask me about I am Happy OR Not 💖<br>🌱 I’m currently learning 🤍<br>⚡ Fun fact I am Still A student 💜<br>❤️‍🔥 JOIN MY TELEGRAM GROUP AND CHANNEL 💮<br>💞CHANNEL - ❤️‍🔥[ https://t.me/ll_about_ari_ll ]<br>💫GROUP - ❤️‍🔥[ https://t.me/three_stars_ki_duniya ]<br>#-----------#----------(●'◡'●)--------------#---------------------
+# 💫「ᴀʙᴏᴜᴛ ᴍᴇ」:
+🔭ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴄᴏᴅɪɴɢ ᴀɴᴅ ᴘʏᴛʜᴏɴ ᴘʀᴏɢʀᴀᴍᴍᴇꜱ💫<br>👯ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴏɴ 🥺<br>📫 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ [Mail](tashithmanuka2006@gmail.com) <br>💬 ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ ɪ ᴀᴍ ʜᴀᴘᴘʏ ᴏʀ ɴᴏᴛ 💖<br>🌱 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ🤍<br>⚡ꜰᴜɴ ꜰᴀᴄᴛ ɪ ᴀᴍ ꜱᴛɪʟʟ ᴀ ꜱᴛᴜᴅᴇɴᴛ💜<br>❤️‍🔥 𝗝𝗢𝗜𝗡 𝗠𝗬 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 𝗚𝗥𝗢𝗨𝗣 𝗔𝗡𝗗 𝗖𝗛𝗔𝗡𝗡𝗘𝗟💮<br>💞CHANNEL - ❤️‍🔥[ https://t.me/ll_about_ari_ll ]<br>💫 GROUP - ❤️‍🔥[ https://t.me/three_stars_ki_duniya ]<br>#-----------#----------(●'◡'●)--------------#---------------------
 
 
-## 🌐 Socials:
+## 「●ꜱᴏᴄɪᴀʟꜱ●」:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ariXop) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@aritra983044) 
 
 # 💻 Tech Stack:
