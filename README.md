@@ -1,6 +1,7 @@
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 # 💫「ᴀʙᴏᴜᴛ ᴍᴇ」:
 🔭ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴄᴏᴅɪɴɢ ᴀɴᴅ ᴘʏᴛʜᴏɴ ᴘʀᴏɢʀᴀᴍᴍᴇꜱ💫<br>👯ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴏɴ 🥺<br>📫 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ [Mail](tashithmanuka2006@gmail.com) <br>💬 ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ ɪ ᴀᴍ ʜᴀᴘᴘʏ ᴏʀ ɴᴏᴛ 💖<br>🌱 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ🤍<br>⚡ꜰᴜɴ ꜰᴀᴄᴛ ɪ ᴀᴍ ꜱᴛɪʟʟ ᴀ ꜱᴛᴜᴅᴇɴᴛ💜<br>❤️‍🔥 𝗝𝗢𝗜𝗡 𝗠𝗬 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 𝗚𝗥𝗢𝗨𝗣 𝗔𝗡𝗗 𝗖𝗛𝗔𝗡𝗡𝗘𝗟💮<br>💞CHANNEL - ❤️‍🔥[ https://t.me/ll_about_ari_ll ]<br>💫 GROUP - ❤️‍🔥[ https://t.me/three_stars_ki_duniya ]<br>#-----------#----------(●'◡'●)--------------#---------------------
-
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ❤️‍🔥「●𝘀𝗼𝗰𝗶𝗮𝗹𝘀●」:
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Notookk/Notookk)
