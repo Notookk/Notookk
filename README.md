@@ -21,5 +21,11 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/notookk) 
 
-  
+  <img align="right" alt="GIF" height="200px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
+
+<h3 align="left"><strong>♥️:| MUIC PLAYER 🎵<strong/> <h3/>
+
+###### [![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com)
+
+---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
