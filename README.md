@@ -75,15 +75,13 @@
 
 <h2 align="center">📊 𝗠𝗶𝘀𝘀𝗶𝗼𝗻 𝗦𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝘀</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Notookk&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-</div>
-<br />
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Notookk&theme=dark&hide_border=true" />
-</div>
-<br />
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Notookk&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Notookk&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="Github Stats" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Notookk&theme=dark&hide_border=false" alt="Streak Stats" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Notookk&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Langs" />
 </div>
 
 <br />
@@ -105,8 +103,8 @@
 
 <h3 align="center">🎧 𝗡𝗲𝘂𝗿𝗮𝗹 𝗟𝗶𝗻𝗸 𝗙𝗿𝗲𝗾𝘂𝗲𝗻𝗰𝘆</h3>
 <div align="center">
-  <a href="https://open.spotify.com/user/notookk">
-    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" />
+  <a href="https://spotify.com">
+    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify" />
   </a>
 </div>
 
