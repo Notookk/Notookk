@@ -1,20 +1,20 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Notookk/Notookk/main/morningstar.svg" width="100%" alt="Morning Star Banner" />
+  <img src="./morningstar.svg" width="100%" alt="Morning Star Banner" />
 </div>
 
 <br />
 
 <div align="center">
   <a href="mailto:notookk404@gmail.com">
-    <img src="https://raw.githubusercontent.com/Notookk/Notookk/main/gmail.svg" height="38" alt="Gmail" />
+    <img src="./gmail.svg" height="38" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Notookk">
-    <img src="https://raw.githubusercontent.com/Notookk/Notookk/main/github.svg" height="38" alt="GitHub" />
+    <img src="./github.svg" height="38" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
   <a href="https://t.me/xazoc">
-    <img src="https://raw.githubusercontent.com/Notookk/Notookk/main/telegram.svg" height="38" alt="Telegram" />
+    <img src="./telegram.svg" height="38" alt="Telegram" />
   </a>
 </div>
 
@@ -75,18 +75,22 @@
 
 <h2 align="center">📊 𝗠𝗶𝘀𝘀𝗶𝗼𝗻 𝗦𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝘀</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Notookk&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Notookk&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Notookk&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
 </div>
+<br />
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Notookk&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Notookk&theme=dark&hide_border=true" />
+</div>
+<br />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Notookk&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 <br />
 
 <h2 align="center">🏆 𝗔𝗰𝗵𝗶𝗲𝘃𝗲𝗺𝗲𝗻𝘁𝘀</h2>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Notookk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Notookk&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 </div>
 
 <br />
@@ -101,8 +105,8 @@
 
 <h3 align="center">🎧 𝗡𝗲𝘂𝗿𝗮𝗹 𝗟𝗶𝗻𝗸 𝗙𝗿𝗲𝗾𝘂𝗲𝗻𝗰𝘆</h3>
 <div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=notookk&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=notookk&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify" />
+  <a href="https://open.spotify.com/user/notookk">
+    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" />
   </a>
 </div>
 
