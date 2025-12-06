@@ -4,7 +4,7 @@
 	<img src="/morningstar.svg">
  <a href="mailto:notookk404@gmail.com" target="blank"><img src="gmail.svg" width="200px"/>
 	 <a href="https://github.com/Notookk"><img src="github.svg" width="150px"/>
-	 <a href="https://t.me/xazoc"><img src="x.svg" width="150px"/>
+	 <a href="https://t.me/xazoc"><img src="telegram.svg" width="150px"/>
 </h1>
 </div>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
