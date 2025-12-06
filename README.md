@@ -1,6 +1,12 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-# 💫「ᴀʙᴏᴜᴛ ᴍᴇ」:
-🔭ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴄᴏᴅɪɴɢ ᴀɴᴅ ᴘʏᴛʜᴏɴ ᴘʀᴏɢʀᴀᴍᴍᴇꜱ💫<br>👯ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴏɴ 🥺<br>📫 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ [Mail](notookk404@gmail.com) <br>💬 ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ ɪ ᴀᴍ ʜᴀᴘᴘʏ ᴏʀ ɴᴏᴛ 💖<br>🌱 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ🤍<br>⚡ꜰᴜɴ ꜰᴀᴄᴛ ɪ ᴀᴍ ꜱᴛɪʟʟ ᴀ ꜱᴛᴜᴅᴇɴᴛ💜<br>💞Join My - ❤️‍🔥[Channel]( https://t.me/love_mhe )<br> You can reach me on [Telegram](https://t.me/xazoc)<br>#-----------#----------(●'◡'●)--------------#---------------------
+<div>
+<h1 align="center">
+	<img src="/morningstar.svg">
+ <a href="mailto:notookk404@gmail.com" target="blank"><img src="gmail.svg" width="200px"/>
+	 <a href="https://github.com/Notookk"><img src="github.svg" width="150px"/>
+	 <a href="https://t.me/xazoc"><img src="x.svg" width="150px"/>
+</h1>
+</div>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ❤️‍🔥「●𝘀𝗼𝗰𝗶𝗮𝗹𝘀●」:
