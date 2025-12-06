@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="230" height="32" viewBox="0 0 230 32" role="img" aria-label="email: notookk404@gmail.com">
+  <title>email: notookk404@gmail.com</title>
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&amp;display=swap');
+      .badge-text { font-family: 'Montserrat', sans-serif; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; font-size: 11px; }
+    </style>
+    <linearGradient id="scifiDark" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#1e1b4b;stop-opacity:1" /><stop offset="100%" style="stop-color:#020617;stop-opacity:1" /></linearGradient>
+    <linearGradient id="scifiLight" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#312e81;stop-opacity:1" /><stop offset="100%" style="stop-color:#1e1b4b;stop-opacity:1" /></linearGradient>
+    <linearGradient id="cyberAccent" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#06b6d4;stop-opacity:1" /><stop offset="50%" style="stop-color:#8b5cf6;stop-opacity:1" /><stop offset="100%" style="stop-color:#d946ef;stop-opacity:1" /></linearGradient>
+    <pattern id="hexGrid" width="20" height="17.3" patternUnits="userSpaceOnUse" patternTransform="scale(0.4)"><path d="M10 0 L20 5.75 L20 17.3 L10 23.05 L0 17.3 L0 5.75 Z" fill="none" stroke="#06b6d4" stroke-opacity="0.3" stroke-width="1"/></pattern>
+    <filter id="cyberGlow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur in="SourceGraphic" stdDeviation="2" result="blur"/><feColorMatrix in="blur" type="matrix" values="0 0 0 0 0   0 1 1 0 0   0 1 1 0 0  0 0 0 1 0" result="cyanBlur"/><feMerge><feMergeNode in="cyanBlur" opacity="0.7"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="pillClipEmail"><rect width="230" height="32" rx="16"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#pillClipEmail)" filter="url(#cyberGlow)">
+    <rect width="230" height="32" fill="url(#scifiDark)"/>
+    <rect width="230" height="32" fill="url(#hexGrid)" opacity="0.3"/>
+    
+    <rect x="37" y="0" width="193" height="32" fill="url(#scifiLight)" opacity="0.5"/>
+    
+    <path d="M 36 0 L 36 32" stroke="url(#cyberAccent)" stroke-width="1.5"/>
+  </g>
+  
+  <rect width="230" height="32" rx="16" fill="none" stroke="url(#cyberAccent)" stroke-width="1.5" filter="url(#cyberGlow)"/>
+
+  <g transform="translate(8, 6)" filter="url(#cyberGlow)">
+    <path d="M2 4 C 2 3, 3 2, 4 2 L 16 2 C 17 2, 18 3, 18 4 L 18 16 C 18 17, 17 18, 16 18 L 4 18 C 3 18, 2 17, 2 16 Z M 4 5 L 10 10 L 16 5" fill="none" stroke="url(#cyberAccent)" stroke-width="1.5"/>
+  </g>
+
+  <text x="133" y="20" text-anchor="middle" class="badge-text" fill="#ffffff" filter="url(#cyberGlow)">NOTOOKK404@GMAIL.COM</text>
+</svg>

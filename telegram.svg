@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="130" height="32" viewBox="0 0 130 32" role="img" aria-label="telegram: @xazoc">
+  <title>telegram: @xazoc</title>
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&amp;display=swap');
+      .badge-text { font-family: 'Montserrat', sans-serif; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; font-size: 11px; }
+    </style>
+    <linearGradient id="scifiDark" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#1e1b4b;stop-opacity:1" /><stop offset="100%" style="stop-color:#020617;stop-opacity:1" /></linearGradient>
+    <linearGradient id="scifiLight" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#312e81;stop-opacity:1" /><stop offset="100%" style="stop-color:#1e1b4b;stop-opacity:1" /></linearGradient>
+    <linearGradient id="cyberAccent" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#06b6d4;stop-opacity:1" /><stop offset="50%" style="stop-color:#8b5cf6;stop-opacity:1" /><stop offset="100%" style="stop-color:#d946ef;stop-opacity:1" /></linearGradient>
+    <pattern id="hexGrid" width="20" height="17.3" patternUnits="userSpaceOnUse" patternTransform="scale(0.4)"><path d="M10 0 L20 5.75 L20 17.3 L10 23.05 L0 17.3 L0 5.75 Z" fill="none" stroke="#06b6d4" stroke-opacity="0.3" stroke-width="1"/></pattern>
+    <filter id="cyberGlow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur in="SourceGraphic" stdDeviation="2" result="blur"/><feColorMatrix in="blur" type="matrix" values="0 0 0 0 0   0 1 1 0 0   0 1 1 0 0  0 0 0 1 0" result="cyanBlur"/><feMerge><feMergeNode in="cyanBlur" opacity="0.7"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="pillClipTele"><rect width="130" height="32" rx="16"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#pillClipTele)" filter="url(#cyberGlow)">
+    <rect width="130" height="32" fill="url(#scifiDark)"/>
+    <rect width="130" height="32" fill="url(#hexGrid)" opacity="0.3"/>
+    <rect x="37" y="0" width="93" height="32" fill="url(#scifiLight)" opacity="0.5"/>
+    <path d="M 36 0 L 36 32" stroke="url(#cyberAccent)" stroke-width="1.5"/>
+  </g>
+  
+  <rect width="130" height="32" rx="16" fill="none" stroke="url(#cyberAccent)" stroke-width="1.5" filter="url(#cyberGlow)"/>
+
+  <g transform="translate(8, 6)" filter="url(#cyberGlow)">
+    <path d="M 18 4 L 2 10 L 8 13 L 10 19 L 12 15 L 17 18 L 18 4 Z M 15 7 L 9 13 L 9 16 L 11 14 L 15 7 Z" fill="none" stroke="url(#cyberAccent)" stroke-width="1.5" transform="translate(-1,0)"/>
+  </g>
+
+  <text x="83" y="20" text-anchor="middle" class="badge-text" fill="#ffffff" filter="url(#cyberGlow)">@XAZOC</text>
+</svg>
