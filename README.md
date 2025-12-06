@@ -1,18 +1,18 @@
 <div align="center">
-  <img src="./morningstar.svg" width="100%" alt="Morning Star Banner" />
+  <img src="https://raw.githubusercontent.com/Notookk/Notookk/main/morningstar.svg" width="100%" alt="Morning Star Banner" />
   
   <br />
   
   <a href="mailto:notookk404@gmail.com">
-    <img src="./email.svg" height="35" alt="Email" />
+    <img src="https://raw.githubusercontent.com/Notookk/Notookk/main/email.svg" height="35" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/Notookk">
-    <img src="./github.svg" height="35" alt="GitHub" />
+    <img src="https://raw.githubusercontent.com/Notookk/Notookk/main/github.svg" height="35" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://t.me/xazoc">
-    <img src="./telegram.svg" height="35" alt="Telegram" />
+    <img src="https://raw.githubusercontent.com/Notookk/Notookk/main/telegram.svg" height="35" alt="Telegram" />
   </a>
 </div>
 
@@ -23,7 +23,7 @@
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Passionate+Developer;Backend+%7C+Frontend+%7C+Research;Building+The+Future+of+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Passionate+Developer;Backend+%7C+Frontend+%7C+Research;Building+The+Future+of+Tech" alt="Typing SVG" />
 </h3>
 
 <br />
@@ -48,7 +48,7 @@
       <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
       <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
       <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
-      <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white">
+      <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalocean&logoColor=white">
       <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
       <img src="https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=white">
     </td>
@@ -71,8 +71,8 @@
 
 <h2 align="center">📊 𝗠𝗶𝘀𝘀𝗶𝗼𝗻 𝗦𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝘀</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Notookk&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Notookk&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Notookk&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Notookk&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="170" alt="languages graph" />
 </div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Notookk&theme=tokyonight&hide_border=true" alt="streak graph" />
