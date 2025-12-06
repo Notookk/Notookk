@@ -4,7 +4,7 @@
   <br />
   
   <a href="mailto:notookk404@gmail.com">
-    <img src="./email.svg" height="35" alt="Email" />
+    <img src="./gmail.svg" height="35" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/Notookk">
