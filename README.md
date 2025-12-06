@@ -1,18 +1,18 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Notookk/Notookk/main/morningstar.svg" width="100%" alt="Morning Star Banner" />
+  <img src="./morningstar.svg" width="100%" alt="Morning Star Banner" />
   
   <br />
   
   <a href="mailto:notookk404@gmail.com">
-    <img src="https://raw.githubusercontent.com/Notookk/Notookk/main/email.svg" height="35" alt="Email" />
+    <img src="./email.svg" height="35" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/Notookk">
-    <img src="https://raw.githubusercontent.com/Notookk/Notookk/main/github.svg" height="35" alt="GitHub" />
+    <img src="./github.svg" height="35" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://t.me/xazoc">
-    <img src="https://raw.githubusercontent.com/Notookk/Notookk/main/telegram.svg" height="35" alt="Telegram" />
+    <img src="./telegram.svg" height="35" alt="Telegram" />
   </a>
 </div>
 
