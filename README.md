@@ -1,18 +1,20 @@
 <div align="center">
-  <img src="./morningstar.svg" width="100%" alt="Morning Star Banner" />
-  
-  <br />
-  
+  <img src="morningstar.svg" width="100%" alt="Morning Star Banner" />
+</div>
+
+<br />
+
+<div align="center">
   <a href="mailto:notookk404@gmail.com">
-    <img src="./gmail.svg" height="35" alt="Email" />
+    <img src="gmail.svg" height="38" alt="Gmail" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/Notookk">
-    <img src="./github.svg" height="35" alt="GitHub" />
+    <img src="github.svg" height="38" alt="GitHub" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://t.me/xazoc">
-    <img src="./telegram.svg" height="35" alt="Telegram" />
+    <img src="telegram.svg" height="38" alt="Telegram" />
   </a>
 </div>
 
@@ -23,7 +25,9 @@
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Passionate+Developer;Backend+%7C+Frontend+%7C+Research;Building+The+Future+of+Tech" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Passionate+Developer;Backend+%7C+Frontend+%7C+Research;Building+The+Future+of+Tech" alt="Typing SVG" />
+  </a>
 </h3>
 
 <br />
@@ -71,11 +75,11 @@
 
 <h2 align="center">📊 𝗠𝗶𝘀𝘀𝗶𝗼𝗻 𝗦𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝘀</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Notookk&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Notookk&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="170" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Notookk&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Notookk&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="170" alt="Top Languages" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Notookk&theme=tokyonight&hide_border=true" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Notookk&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
 <br />
