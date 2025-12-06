@@ -1,20 +1,20 @@
 <div align="center">
-  <img src="morningstar.svg" width="100%" alt="Morning Star Banner" />
+  <img src="https://raw.githubusercontent.com/Notookk/Notookk/main/morningstar.svg" width="100%" alt="Morning Star Banner" />
 </div>
 
 <br />
 
 <div align="center">
   <a href="mailto:notookk404@gmail.com">
-    <img src="gmail.svg" height="38" alt="Gmail" />
+    <img src="https://raw.githubusercontent.com/Notookk/Notookk/main/gmail.svg" height="38" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Notookk">
-    <img src="github.svg" height="38" alt="GitHub" />
+    <img src="https://raw.githubusercontent.com/Notookk/Notookk/main/github.svg" height="38" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
   <a href="https://t.me/xazoc">
-    <img src="telegram.svg" height="38" alt="Telegram" />
+    <img src="https://raw.githubusercontent.com/Notookk/Notookk/main/telegram.svg" height="38" alt="Telegram" />
   </a>
 </div>
 
@@ -75,7 +75,7 @@
 
 <h2 align="center">📊 𝗠𝗶𝘀𝘀𝗶𝗼𝗻 𝗦𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝘀</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Notookk&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Notookk&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Notookk&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="170" alt="Top Languages" />
 </div>
 <div align="center">
