@@ -91,6 +91,22 @@
 
 <br />
 
+<!-- ⭐ NEW SECTION: CONTRIBUTOR STATS -->
+<h2 align="center">👥 𝗧𝗼𝗽 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗼𝗿 𝗦𝘁𝗮𝘁𝘀</h2>
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Notookk&limit=5&theme=flat&combine_all_yearly_contributions=true" />
+</div>
+
+<br />
+
+<!-- ⭐ NEW SECTION: DEV QUOTE -->
+<h2 align="center">📜 𝗗𝗲𝘃 𝗤𝘂𝗼𝘁𝗲 𝗼𝗳 𝘁𝗵𝗲 𝗗𝗮𝘆</h2>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+<br />
+
 <div align="center">
   <a href="https://buymeacoffee.com/notookk">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
