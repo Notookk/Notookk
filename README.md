@@ -75,7 +75,7 @@
 
 <h2 align="center">📊 𝗠𝗶𝘀𝘀𝗶𝗼𝗻 𝗦𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝘀</h2>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Notookk&theme=dark&hide_border=false" alt="Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Notookk&theme=radical&border_radius=20" width="48%"" alt="Streak Stats" />
 </p>
 
 <h2 align="center">🏆 𝗔𝗰𝗵𝗶𝗲𝘃𝗲𝗺𝗲𝗻𝘁𝘀</h2>
