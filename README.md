@@ -35,19 +35,20 @@
 <table align="center" border="0" width="100%">
   <tr>
     <td align="center">
-      <h3 align="center">⚡ 𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘𝗦</h3>
-      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-      <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+      <h3 align="center">⚡ 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜</h3>
+      <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50"/>
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50"/>
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50"/>
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50"/>
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50"/>
+      </div>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <h3 align="center">🌌 𝗖𝗟𝗢𝗨𝗗 & 𝗛𝗢𝗦𝗧𝗜𝗡𝗚</h3>
+      <h3 align="center">🌌 𝙲𝚕𝚘𝚞𝚍 & 𝙷𝚘𝚜𝚝𝚒𝚗𝚐</h3>
       <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
       <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
       <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
