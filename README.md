@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td align="center">
-      <h3 align="center">⎚ 𝙲𝚕𝚘𝚞𝚍 & 𝙷𝚘𝚜𝚝𝚒𝚗𝚐</h3>
+      <h3 align="center">⌬ 𝙲𝚕𝚘𝚞𝚍 & 𝙷𝚘𝚜𝚝𝚒𝚗𝚐</h3>
       <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
       <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
       <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
@@ -60,7 +60,7 @@
   </tr>
   <tr>
     <td align="center">
-      <h3 align="center">⎚ 𝚃𝚘𝚘𝚕𝚜 & 𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔</h3>
+      <h3 align="center">⌬ 𝚃𝚘𝚘𝚕𝚜 & 𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔</h3>
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
       <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
       <img src="https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white">
@@ -74,7 +74,7 @@
 
 <br />
 
-<h2 align="center">⎚ 𝗠𝗶𝘀𝘀𝗶𝗼𝗻 𝗦𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝘀</h2>
+<h2 align="center">⌬ 𝗠𝗶𝘀𝘀𝗶𝗼𝗻 𝗦𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝘀</h2>
   <a href="https://github.com/Notookk">
     <div align="center">
     <img width="70%" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=Notookk&show_icons=true&theme=dark&hide_border=true&background=000000&ring=94b4a4&fire=94b4a4&currStreakLabel=94b4a4"/>
