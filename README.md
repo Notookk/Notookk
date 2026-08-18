@@ -76,7 +76,7 @@
 
 <h2 align="center">📊 𝗠𝗶𝘀𝘀𝗶𝗼𝗻 𝗦𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝘀</h2>
   <a href="https://github.com/Notookk">
-    <img width="70%" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=Notookk&show_icons=true&theme=dark&hide_border=true&background=000000&ring=94b4a4&fire=94b4a4&currStreakLabel=94b4a4"/>
+    <img align="center" width="70%" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=Notookk&show_icons=true&theme=dark&hide_border=true&background=000000&ring=94b4a4&fire=94b4a4&currStreakLabel=94b4a4"/>
   </a>
 
 <h2 align="center">🏆 𝗔𝗰𝗵𝗶𝗲𝘃𝗲𝗺𝗲𝗻𝘁𝘀</h2>
