@@ -77,7 +77,7 @@
 <h2 align="center">⌬ 𝗠𝗶𝘀𝘀𝗶𝗼𝗻 𝗦𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝘀</h2>
   <a href="https://github.com/Notookk">
     <div align="center">
-        <img width="70%" style="border-radius: 30px;" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=Notookk&show_icons=true&theme=dark&hide_border=true&background=000000&ring=94b4a4&fire=94b4a4&currStreakLabel=94b4a4"/>
+        <img width="70%" style="border-radius: 40px;" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=Notookk&show_icons=true&theme=dark&hide_border=true&background=000000&ring=94b4a4&fire=94b4a4&currStreakLabel=94b4a4"/>
     </a></div>
 
 
